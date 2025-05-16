@@ -15,14 +15,14 @@ To write a C program to display the adjacency matrix of the given graph by suppl
 8. End
 ## Program:
 ```
-/*
+
 Program to display the adjacency matrix of the given graph.
 
-Developed by: SAI VISHAL D
+Developed by: Sai Vishal D
 RegisterNumber:  212223230180
-*/ 
+
  
-#include<stdio.h> 
+/*#include<stdio.h> 
 int V; 
  
 //init matrix to 0 
